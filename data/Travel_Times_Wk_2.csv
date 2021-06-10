@@ -1,0 +1,430 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1277","300 Hayes St, San Francisco, CA","9","500 Hyde Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",260,168,400
+"1277","300 Hayes St, San Francisco, CA","20","900 Sutter Street, Lower Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",221,147,331
+"1277","300 Hayes St, San Francisco, CA","21","3400 Pierce Street, Marina District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",444,380,518
+"1277","300 Hayes St, San Francisco, CA","44","1700 Egbert Avenue, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",576,460,720
+"1277","300 Hayes St, San Francisco, CA","46","500 Chester Street, West Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",820,654,1027
+"1277","300 Hayes St, San Francisco, CA","57","1700 Bayo Vista Avenue, San Pablo","3/22/2020 - 3/29/2020, Every day, Daily Average",1155,615,2167
+"1277","300 Hayes St, San Francisco, CA","58","5600 Genoa Street, Santa Fe, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",861,787,941
+"1277","300 Hayes St, San Francisco, CA","78","1400 Thomas Avenue, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",761,561,1030
+"1277","300 Hayes St, San Francisco, CA","79","1500 California Street, Polk Gulch, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",267,176,402
+"1277","300 Hayes St, San Francisco, CA","80","0 Farren Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",276,202,375
+"1277","300 Hayes St, San Francisco, CA","81","0 Berkeley Way, Diamond Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",715,631,809
+"1277","300 Hayes St, San Francisco, CA","82","2700 25th Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",290,222,378
+"1277","300 Hayes St, San Francisco, CA","87","2200 Wyandotte Street, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",1960,1805,2127
+"1277","300 Hayes St, San Francisco, CA","90","300 Heathcliff Drive, Westview, Pacifica","3/22/2020 - 3/29/2020, Every day, Daily Average",933,810,1073
+"1277","300 Hayes St, San Francisco, CA","91","700 Industrial Road, San Carlos","3/22/2020 - 3/29/2020, Every day, Daily Average",1439,1268,1632
+"1277","300 Hayes St, San Francisco, CA","96","2200 Bonar Street, Poets Corner, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1004,871,1156
+"1277","300 Hayes St, San Francisco, CA","98","500 10th Street, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",862,701,1058
+"1277","300 Hayes St, San Francisco, CA","102","500 Mount Street, East Richmond, Richmond","3/22/2020 - 3/29/2020, Every day, Daily Average",1084,629,1867
+"1277","300 Hayes St, San Francisco, CA","113","1200 Hayes Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",132,92,188
+"1277","300 Hayes St, San Francisco, CA","117","100 Edgemar Street, Crocker, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",865,722,1035
+"1277","300 Hayes St, San Francisco, CA","151","500 20th Street, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",954,842,1080
+"1277","300 Hayes St, San Francisco, CA","155","400 North Mary Avenue, Sunnyvale West, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2223,2033,2429
+"1277","300 Hayes St, San Francisco, CA","165","2200 Franklin Street, Pacific Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",201,153,262
+"1277","300 Hayes St, San Francisco, CA","181","3400 Richmond Boulevard, Oakland Ave - Harrison St, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",824,703,964
+"1277","300 Hayes St, San Francisco, CA","186","1800 Vicente Street, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1058,851,1315
+"1277","300 Hayes St, San Francisco, CA","206","1300 15th Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",191,126,287
+"1277","300 Hayes St, San Francisco, CA","207","1100 Guerrero Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",484,367,637
+"1277","300 Hayes St, San Francisco, CA","208","600 Alabama Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",359,266,484
+"1277","300 Hayes St, San Francisco, CA","209","300 Wilde Avenue, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",453,350,585
+"1277","300 Hayes St, San Francisco, CA","210","100 Ramsell Street, Oceanview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",633,500,801
+"1277","300 Hayes St, San Francisco, CA","211","200 16th Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",710,479,1051
+"1277","300 Hayes St, San Francisco, CA","212","500 Washington Street, Financial District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",552,427,712
+"1277","300 Hayes St, San Francisco, CA","232","1000 Beech Street, East Palo Alto","3/22/2020 - 3/29/2020, Every day, Daily Average",1852,1659,2067
+"1277","300 Hayes St, San Francisco, CA","234","100 Domestic Terminals Departures Level, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",921,767,1104
+"1277","300 Hayes St, San Francisco, CA","264","300 Irwin Street, San Rafael","3/22/2020 - 3/29/2020, Every day, Daily Average",1351,1191,1532
+"1277","300 Hayes St, San Francisco, CA","285","1600 Maritime Street, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",653,520,819
+"1277","300 Hayes St, San Francisco, CA","286","1000 10th Street, West Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",820,681,987
+"1277","300 Hayes St, San Francisco, CA","288","14700 Wiley Street, Washington Manor - Bonaire, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1837,1239,2723
+"1277","300 Hayes St, San Francisco, CA","299","Chinatown / North Beach Campus, Russian Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",439,345,557
+"1277","300 Hayes St, San Francisco, CA","302","0 Bass Court, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",717,540,951
+"1277","300 Hayes St, San Francisco, CA","303","Bay Trail, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2344,1886,2913
+"1277","300 Hayes St, San Francisco, CA","304","500 Zook Road, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",2158,1923,2420
+"1277","300 Hayes St, San Francisco, CA","306","200 Silverlake Drive, Lakewood, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2283,2069,2518
+"1277","300 Hayes St, San Francisco, CA","311","200 Northgate Avenue, Westlake, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",638,514,791
+"1277","300 Hayes St, San Francisco, CA","314","200 Alta Mesa Drive, Serra Highlands, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",938,767,1146
+"1277","300 Hayes St, San Francisco, CA","315","900 Veterans Boulevard, Redwood City","3/22/2020 - 3/29/2020, Every day, Daily Average",1498,1384,1621
+"1277","300 Hayes St, San Francisco, CA","321","Nimitz Freeway, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",920,740,1143
+"1277","300 Hayes St, San Francisco, CA","322","300 Warwick Avenue, Adams Point, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",852,727,997
+"1277","300 Hayes St, San Francisco, CA","323","900 Embarcadero West, West Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",825,725,937
+"1277","300 Hayes St, San Francisco, CA","328","5000 Franklin Drive, Pleasanton","3/22/2020 - 3/29/2020, Every day, Daily Average",2122,1961,2295
+"1277","300 Hayes St, San Francisco, CA","338","100 Hinman Road, Redwood City","3/22/2020 - 3/29/2020, Every day, Daily Average",1551,1374,1749
+"1277","300 Hayes St, San Francisco, CA","345","400 Moffett Boulevard, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",2044,1885,2216
+"1277","300 Hayes St, San Francisco, CA","347","900 Sycamore Drive, Midtown, Palo Alto","3/22/2020 - 3/29/2020, Every day, Daily Average",1927,1780,2085
+"1277","300 Hayes St, San Francisco, CA","385","0 Valley View Road, Orinda","3/22/2020 - 3/29/2020, Every day, Daily Average",1174,1069,1288
+"1277","300 Hayes St, San Francisco, CA","387","2100 Manchester Road, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1567,1461,1680
+"1277","300 Hayes St, San Francisco, CA","388","1700 Doolittle Drive, Davis Tract, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1563,1127,2167
+"1277","300 Hayes St, San Francisco, CA","389","1000 Burkhart Avenue, Washington Manor - Bonaire, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1919,1329,2770
+"1277","300 Hayes St, San Francisco, CA","394","3600 Page Street, Friendly Acres, Redwood City","3/22/2020 - 3/29/2020, Every day, Daily Average",1620,1516,1730
+"1277","300 Hayes St, San Francisco, CA","408","1800 Hillside Boulevard, Colma","3/22/2020 - 3/29/2020, Every day, Daily Average",898,797,1010
+"1277","300 Hayes St, San Francisco, CA","409","200 Nelson Avenue, Edgemar - Pacific Manor, Pacifica","3/22/2020 - 3/29/2020, Every day, Daily Average",821,767,878
+"1277","300 Hayes St, San Francisco, CA","417","4400 Bell Avenue, Eastshore, Richmond","3/22/2020 - 3/29/2020, Every day, Daily Average",1072,881,1303
+"1277","300 Hayes St, San Francisco, CA","423","200 Locust Avenue, San Rafael","3/22/2020 - 3/29/2020, Every day, Daily Average",1410,1287,1543
+"1277","300 Hayes St, San Francisco, CA","433","600 Vanessa Drive, Central San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1209,1081,1350
+"1277","300 Hayes St, San Francisco, CA","434","1300 Franklin Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",138,99,191
+"1277","300 Hayes St, San Francisco, CA","443","New Corona Heights Trail, The Castro, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",391,273,559
+"1277","300 Hayes St, San Francisco, CA","445","900 Divisadero Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",223,156,317
+"1277","300 Hayes St, San Francisco, CA","447","2600 Alvarado Street, Floresta Gardens - Bradrick, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1682,1192,2372
+"1277","300 Hayes St, San Francisco, CA","452","1200 Green Street, Russian Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",304,224,411
+"1277","300 Hayes St, San Francisco, CA","457","3100 West Street, Hoover - Foster, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",764,636,917
+"1277","300 Hayes St, San Francisco, CA","458","900 Webster Street, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",894,716,1115
+"1277","300 Hayes St, San Francisco, CA","463","2000 Bancroft Way, Downtown Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1172,1054,1302
+"1277","300 Hayes St, San Francisco, CA","464","1600 Fairview Street, South Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1021,879,1184
+"1277","300 Hayes St, San Francisco, CA","467","16300 Helo Drive, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1502,1390,1622
+"1277","300 Hayes St, San Francisco, CA","475","1500 Lacassie Avenue, Walnut Creek","3/22/2020 - 3/29/2020, Every day, Daily Average",1617,1446,1807
+"1277","300 Hayes St, San Francisco, CA","477","0 Tara Road, Northwood - Tara, Orinda","3/22/2020 - 3/29/2020, Every day, Daily Average",1182,1007,1386
+"1277","300 Hayes St, San Francisco, CA","478","100 Eagle Court, Birds, Hercules","3/22/2020 - 3/29/2020, Every day, Daily Average",1363,665,2791
+"1277","300 Hayes St, San Francisco, CA","488","0 Oak Gate Place, Pleasant Hill","3/22/2020 - 3/29/2020, Every day, Daily Average",1625,1517,1740
+"1277","300 Hayes St, San Francisco, CA","495","4200 Shelter Creek Lane, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",883,806,967
+"1277","300 Hayes St, San Francisco, CA","528","600 Lexington Way, Oak Grove Manor, Burlingame","3/22/2020 - 3/29/2020, Every day, Daily Average",1050,882,1249
+"1277","300 Hayes St, San Francisco, CA","532","200 Beach Street, North Beach, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",565,423,752
+"1277","300 Hayes St, San Francisco, CA","533","1400 Grant Avenue, North Beach, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",506,397,644
+"1277","300 Hayes St, San Francisco, CA","534","200 Walnut Street, Presidio Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",467,277,785
+"1277","300 Hayes St, San Francisco, CA","535","0 Rossi Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",376,306,461
+"1277","300 Hayes St, San Francisco, CA","536","800 Franklin Street, Fillmore District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",78,50,119
+"1277","300 Hayes St, San Francisco, CA","537","500 Webster Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",66,39,111
+"1277","300 Hayes St, San Francisco, CA","541","200 San Fernando Way, St. Francis, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",726,592,889
+"1277","300 Hayes St, San Francisco, CA","542","2200 Kenry Way, Westborough, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1066,745,1525
+"1277","300 Hayes St, San Francisco, CA","554","200 2nd Street, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2234,2030,2457
+"1277","300 Hayes St, San Francisco, CA","555","500 Aldo Avenue, Santa Clara","3/22/2020 - 3/29/2020, Every day, Daily Average",2358,2181,2549
+"1277","300 Hayes St, San Francisco, CA","591","2500 10th Avenue, Bella Vista, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",943,807,1101
+"1277","300 Hayes St, San Francisco, CA","595","200 Ghormley Avenue, Brookfield Village, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1407,1052,1880
+"1277","300 Hayes St, San Francisco, CA","597","1600 Eighth Street, Northwest Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1031,850,1249
+"1277","300 Hayes St, San Francisco, CA","602","22000 Cameron Street, Castro Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1663,1535,1801
+"1277","300 Hayes St, San Francisco, CA","608","700 11th Street, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",869,697,1082
+"1277","300 Hayes St, San Francisco, CA","609","700 19th Street, West Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",920,746,1133
+"1277","300 Hayes St, San Francisco, CA","610","1600 Webster Street, Downtown, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1045,902,1210
+"1277","300 Hayes St, San Francisco, CA","624","3300 Beechwood Drive, Stanley, Lafayette","3/22/2020 - 3/29/2020, Every day, Daily Average",1363,1265,1468
+"1277","300 Hayes St, San Francisco, CA","627","800 Marin Road, El Sobrante","3/22/2020 - 3/29/2020, Every day, Daily Average",1296,1130,1486
+"1277","300 Hayes St, San Francisco, CA","628","2300 Santa Clara Street, Richmond Annex, Richmond","3/22/2020 - 3/29/2020, Every day, Daily Average",973,571,1656
+"1277","300 Hayes St, San Francisco, CA","629","100 Guerrero Street, Mission Dolores, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",125,71,218
+"1277","300 Hayes St, San Francisco, CA","641","1400 Jackson Street, Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",291,214,394
+"1277","300 Hayes St, San Francisco, CA","642","600 Grant Avenue, Chinatown, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",439,360,534
+"1277","300 Hayes St, San Francisco, CA","643","200 Myrtle Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",196,121,316
+"1277","300 Hayes St, San Francisco, CA","644","200 Jones Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",315,228,433
+"1277","300 Hayes St, San Francisco, CA","645","1400 Chestnut Street, Marina District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",292,235,362
+"1277","300 Hayes St, San Francisco, CA","646","500 Clayton Street, Haight-Ashbury, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",297,219,401
+"1277","300 Hayes St, San Francisco, CA","647","800 Ashbury Street, Ashbury Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",377,279,508
+"1277","300 Hayes St, San Francisco, CA","648","3800 19th Street, Dolores Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",404,318,513
+"1277","300 Hayes St, San Francisco, CA","649","1000 Diamond Street, Noe Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",653,501,850
+"1277","300 Hayes St, San Francisco, CA","650","700 Rhode Island Street, Potrero Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",244,171,346
+"1277","300 Hayes St, San Francisco, CA","651","2900 22nd Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",415,256,672
+"1277","300 Hayes St, San Francisco, CA","652","300 Hale Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",369,283,481
+"1277","300 Hayes St, San Francisco, CA","653","600 Lisbon Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",759,660,872
+"1277","300 Hayes St, San Francisco, CA","659","200 Staples Avenue, Outer Mission, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",497,399,617
+"1277","300 Hayes St, San Francisco, CA","660","1900 Lawton Street, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",600,498,722
+"1277","300 Hayes St, San Francisco, CA","662","1300 46th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",718,641,803
+"1277","300 Hayes St, San Francisco, CA","663","200 21st Avenue, Central Richmond, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",699,631,773
+"1277","300 Hayes St, San Francisco, CA","664","700 32nd Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",644,569,728
+"1277","300 Hayes St, San Francisco, CA","665","0 Brookdale Avenue, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",705,576,861
+"1277","300 Hayes St, San Francisco, CA","666","1200 El Camino Del Mar, Sea Cliff, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",858,762,966
+"1277","300 Hayes St, San Francisco, CA","675","200 Oriente Street, Bayshore Heights, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",1084,586,2004
+"1277","300 Hayes St, San Francisco, CA","676","300 Citrus Avenue, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",705,568,874
+"1277","300 Hayes St, San Francisco, CA","677","0 Ridgefield Avenue, St. Francis, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",801,684,937
+"1277","300 Hayes St, San Francisco, CA","678","2500 Crestmoor Drive, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",998,777,1280
+"1277","300 Hayes St, San Francisco, CA","680","700 South Fremont Street, North Central, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1210,1041,1406
+"1277","300 Hayes St, San Francisco, CA","682","1300 South Norfolk Street, Shoreview, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1191,1025,1383
+"1277","300 Hayes St, San Francisco, CA","684","1100 Vailwood Way, South San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1347,1205,1504
+"1277","300 Hayes St, San Francisco, CA","741","1600 San Luis Avenue, Rex Manor, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",2007,1852,2174
+"1277","300 Hayes St, San Francisco, CA","805","1400 San Rafael Street, Estudillo Estates - Glen, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1364,1266,1468
+"1277","300 Hayes St, San Francisco, CA","808","3000 Adeline Street, Clawson, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",742,606,908
+"1277","300 Hayes St, San Francisco, CA","809","200 Santa Rosa Avenue, Grand Lake, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",831,722,955
+"1277","300 Hayes St, San Francisco, CA","810","2700 Pleasant Street, School, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1004,868,1161
+"1277","300 Hayes St, San Francisco, CA","812","2000 Francisco Street, North Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1202,1072,1347
+"1277","300 Hayes St, San Francisco, CA","813","2500 Parker Street, Elmwood, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1196,1077,1327
+"1277","300 Hayes St, San Francisco, CA","814","1400 168th Avenue, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1571,1439,1714
+"1277","300 Hayes St, San Francisco, CA","817","400 Oxford Way, Belmont","3/22/2020 - 3/29/2020, Every day, Daily Average",1373,1198,1573
+"1277","300 Hayes St, San Francisco, CA","818","700 Bay Road, Staumbaugh Heller, Redwood City","3/22/2020 - 3/29/2020, Every day, Daily Average",1572,1447,1707
+"1277","300 Hayes St, San Francisco, CA","843","2400 Channing Way, Southside, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1294,1145,1462
+"1277","300 Hayes St, San Francisco, CA","858","600 Geneva Avenue, Outer Mission, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",568,436,739
+"1277","300 Hayes St, San Francisco, CA","859","2200 24th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",880,672,1152
+"1277","300 Hayes St, San Francisco, CA","860","2300 Cabrillo Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",579,508,659
+"1277","300 Hayes St, San Francisco, CA","866","0 Bernard Street, Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",367,267,502
+"1277","300 Hayes St, San Francisco, CA","867","2200 Post Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",279,187,415
+"1277","300 Hayes St, San Francisco, CA","868","500 Diamond Street, Noe Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",595,423,835
+"1277","300 Hayes St, San Francisco, CA","886","4400 Telegraph Avenue, Temescal, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",828,659,1039
+"1277","300 Hayes St, San Francisco, CA","904","400 North Fernwood Circle, Snail, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2294,2115,2487
+"1277","300 Hayes St, San Francisco, CA","905","1000 Pine Street, Lower Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",300,212,423
+"1277","300 Hayes St, San Francisco, CA","906","2700 Octavia Street, Cow Hollow, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",243,190,309
+"1277","300 Hayes St, San Francisco, CA","907","2500 Turk Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",335,255,439
+"1277","300 Hayes St, San Francisco, CA","908","1200 18th Street, Potrero Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",363,277,475
+"1277","300 Hayes St, San Francisco, CA","909","1400 40th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",686,586,802
+"1277","300 Hayes St, San Francisco, CA","910","700 La Playa Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",735,642,841
+"1277","300 Hayes St, San Francisco, CA","915","300 Dolores Way, Sunshine Gardens, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",923,830,1025
+"1277","300 Hayes St, San Francisco, CA","927","800 Aspen Way, Palo Verde, Palo Alto","3/22/2020 - 3/29/2020, Every day, Daily Average",1961,1813,2121
+"1277","300 Hayes St, San Francisco, CA","950","Old Sled Trail, Bolinas","3/22/2020 - 3/29/2020, Every day, Daily Average",830,617,1115
+"1277","300 Hayes St, San Francisco, CA","954","2900 Willow Road, San Pablo","3/22/2020 - 3/29/2020, Every day, Daily Average",1222,1054,1416
+"1277","300 Hayes St, San Francisco, CA","963","600 Sutter Street, Lower Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",279,186,417
+"1277","300 Hayes St, San Francisco, CA","964","2900 Broderick Street, Cow Hollow, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",404,226,719
+"1277","300 Hayes St, San Francisco, CA","965","200 Topeka Avenue, Silver Terrace, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",651,461,917
+"1277","300 Hayes St, San Francisco, CA","967","1400 32nd Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",634,537,747
+"1277","300 Hayes St, San Francisco, CA","968","3200 Anza Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",645,560,741
+"1277","300 Hayes St, San Francisco, CA","983","4100 Fairlands Drive, Pleasanton","3/22/2020 - 3/29/2020, Every day, Daily Average",2291,2132,2461
+"1277","300 Hayes St, San Francisco, CA","1025","Briones to Mount Diablo Regional Trail, Walnut Creek","3/22/2020 - 3/29/2020, Every day, Daily Average",1448,1335,1570
+"1277","300 Hayes St, San Francisco, CA","1030","5300 Lawton Avenue, Shafter, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",862,724,1025
+"1277","300 Hayes St, San Francisco, CA","1031","1100 Cambridge Drive, Lafayette","3/22/2020 - 3/29/2020, Every day, Daily Average",1288,1188,1396
+"1277","300 Hayes St, San Francisco, CA","1032","Shore Trail, Lafayette","3/22/2020 - 3/29/2020, Every day, Daily Average",1267,1156,1387
+"1277","300 Hayes St, San Francisco, CA","1036","Wilder Road, Wilder, Orinda","3/22/2020 - 3/29/2020, Every day, Daily Average",1119,955,1310
+"1277","300 Hayes St, San Francisco, CA","1038","Kestrel Loop Trail, Rodeo","3/22/2020 - 3/29/2020, Every day, Daily Average",1639,1410,1905
+"1277","300 Hayes St, San Francisco, CA","1045","100 Pearl Street, Oakland Ave - Harrison St, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",847,736,974
+"1277","300 Hayes St, San Francisco, CA","1046","300 Grand Avenue, Adams Point, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",875,747,1024
+"1277","300 Hayes St, San Francisco, CA","1047","1700 Eastshore Boulevard, El Cerrito","3/22/2020 - 3/29/2020, Every day, Daily Average",1036,819,1309
+"1277","300 Hayes St, San Francisco, CA","1048","Upper Fire Trail, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1042,868,1249
+"1277","300 Hayes St, San Francisco, CA","1050","3700 Towns Court, Pinole","3/22/2020 - 3/29/2020, Every day, Daily Average",1367,863,2163
+"1277","300 Hayes St, San Francisco, CA","1053","500 Haddon Road, Cleveland Heights, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",910,782,1058
+"1277","300 Hayes St, San Francisco, CA","1056","100 Lakeside Drive, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1049,888,1238
+"1277","300 Hayes St, San Francisco, CA","1057","6300 Brookside Avenue, Upper Rockridge, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",915,776,1078
+"1277","300 Hayes St, San Francisco, CA","1059","900 East 22nd Street, Clinton, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1014,871,1179
+"1277","300 Hayes St, San Francisco, CA","1060","3600 East 8th Street, South Kennedy Tract, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1067,885,1286
+"1277","300 Hayes St, San Francisco, CA","1063","800 54th Avenue, Coliseum Industrial, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1142,921,1415
+"1277","300 Hayes St, San Francisco, CA","1066","7200 Doolittle Drive, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1306,1047,1628
+"1277","300 Hayes St, San Francisco, CA","1068","1600 Poplar Street, West Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",797,670,947
+"1277","300 Hayes St, San Francisco, CA","1069","700 Hillside Avenue, Albany","3/22/2020 - 3/29/2020, Every day, Daily Average",932,765,1135
+"1277","300 Hayes St, San Francisco, CA","1072","1700 Chestnut Street, Northwest Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",978,871,1098
+"1277","300 Hayes St, San Francisco, CA","1074","2300 Ninth Street, Southwest Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",935,807,1082
+"1277","300 Hayes St, San Francisco, CA","1080","Pier 2, Emeryville","3/22/2020 - 3/29/2020, Every day, Daily Average",727,581,909
+"1277","300 Hayes St, San Francisco, CA","1082","2000 Clement Avenue, Alameda","3/22/2020 - 3/29/2020, Every day, Daily Average",1167,1080,1260
+"1277","300 Hayes St, San Francisco, CA","1085","22200 Eden Canyon Road, Castro Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1782,1646,1928
+"1277","300 Hayes St, San Francisco, CA","1087","900 Dowling Boulevard, Broadmoor, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1325,1224,1434
+"1277","300 Hayes St, San Francisco, CA","1089","1700 Wayne Avenue, Davis Tract, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1478,1084,2014
+"1277","300 Hayes St, San Francisco, CA","1090","200 Reva Avenue, Davis Tract, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1439,1060,1952
+"1277","300 Hayes St, San Francisco, CA","1097","15500 Tracy Street, San Lorenzo","3/22/2020 - 3/29/2020, Every day, Daily Average",1528,1381,1689
+"1277","300 Hayes St, San Francisco, CA","1098","600 Elgin Street, San Lorenzo","3/22/2020 - 3/29/2020, Every day, Daily Average",1483,1356,1620
+"1277","300 Hayes St, San Francisco, CA","1099","30600 Palomares Road, Castro Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1742,1607,1887
+"1277","300 Hayes St, San Francisco, CA","1119","0 Locust Avenue, Larkspur","3/22/2020 - 3/29/2020, Every day, Daily Average",1264,1100,1451
+"1277","300 Hayes St, San Francisco, CA","1120","0 Spindrift Passage, Corte Madera","3/22/2020 - 3/29/2020, Every day, Daily Average",1248,1022,1522
+"1277","300 Hayes St, San Francisco, CA","1121","300 Ridgewood Avenue, Mill Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1048,796,1379
+"1277","300 Hayes St, San Francisco, CA","1211","700 Coleman Avenue, Menlo Park","3/22/2020 - 3/29/2020, Every day, Daily Average",1785,1656,1923
+"1277","300 Hayes St, San Francisco, CA","1244","800 Jackson Street, Chinatown, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",430,334,552
+"1277","300 Hayes St, San Francisco, CA","1245","500 Geary Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",274,200,374
+"1277","300 Hayes St, San Francisco, CA","1246","300 McAllister Street, Civic Center, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",104,51,209
+"1277","300 Hayes St, San Francisco, CA","1247","100 Magnolia Street, Marina District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",297,228,385
+"1277","300 Hayes St, San Francisco, CA","1257","2400 Octavia Street, Pacific Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",177,131,238
+"1277","300 Hayes St, San Francisco, CA","1258","2600 Broadway, Pacific Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",378,275,519
+"1277","300 Hayes St, San Francisco, CA","1259","2100 Divisadero Street, Pacific Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",385,301,491
+"1277","300 Hayes St, San Francisco, CA","1260","1800 Scott Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",323,237,438
+"1277","300 Hayes St, San Francisco, CA","1261","700 Presidio Avenue, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",410,319,525
+"1277","300 Hayes St, San Francisco, CA","1265","0 Stoneybrook Avenue, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",435,309,610
+"1277","300 Hayes St, San Francisco, CA","1271","200 Bacon Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",398,303,521
+"1277","300 Hayes St, San Francisco, CA","1272","500 Moscow Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",666,592,748
+"1277","300 Hayes St, San Francisco, CA","1273","200 Naglee Avenue, Outer Mission, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",570,467,694
+"1277","300 Hayes St, San Francisco, CA","1275","0 McLaren Avenue, Sea Cliff, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",834,637,1091
+"1277","300 Hayes St, San Francisco, CA","1276","1100 Golden Gate Avenue, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",171,82,354
+"1277","300 Hayes St, San Francisco, CA","1278","100 Noe Street, The Castro, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",257,182,361
+"1277","300 Hayes St, San Francisco, CA","1279","1100 Folsom Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",239,141,403
+"1277","300 Hayes St, San Francisco, CA","1280","300 Church Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",276,194,392
+"1277","300 Hayes St, San Francisco, CA","1281","700 Guerrero Street, Mission Dolores, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",320,238,429
+"1277","300 Hayes St, San Francisco, CA","1282","1600 Church Street, Noe Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",625,473,825
+"1277","300 Hayes St, San Francisco, CA","1291","1500 Balboa Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",544,438,675
+"1277","300 Hayes St, San Francisco, CA","1292","1300 Wright Loop, Presidio, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",629,499,792
+"1277","300 Hayes St, San Francisco, CA","1293","400 Moraga Street, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",577,481,692
+"1277","300 Hayes St, San Francisco, CA","1294","600 Panorama Drive, Midtown Terrace, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",672,548,823
+"1277","300 Hayes St, San Francisco, CA","1295","0 Avoca Alley, West of Twin Peaks, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",655,522,821
+"1277","300 Hayes St, San Francisco, CA","1296","1300 22nd Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",541,453,645
+"1277","300 Hayes St, San Francisco, CA","1297","100 Font Boulevard, Lakeshore, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",851,669,1082
+"1277","300 Hayes St, San Francisco, CA","1298","200 3rd Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",511,436,598
+"1277","300 Hayes St, San Francisco, CA","1299","8700 Mission Rock Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",382,279,522
+"1277","300 Hayes St, San Francisco, CA","1300","200 John F Kennedy Drive, Golden Gate Park, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",288,200,413
+"1277","300 Hayes St, San Francisco, CA","1302","Tasman Drive, Santa Clara","3/22/2020 - 3/29/2020, Every day, Daily Average",2347,2119,2598
+"1277","300 Hayes St, San Francisco, CA","1304","2300 Lafayette Street, Santa Clara","3/22/2020 - 3/29/2020, Every day, Daily Average",2488,2214,2795
+"1277","300 Hayes St, San Francisco, CA","1339","700 San Juan Drive, San Miguel, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2376,2184,2584
+"1277","300 Hayes St, San Francisco, CA","1437","200 Knowles Avenue, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",660,534,815
+"1277","300 Hayes St, San Francisco, CA","1438","300 87th Street, St. Francis, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",682,545,853
+"1277","300 Hayes St, San Francisco, CA","1443","100 Serramonte Boulevard, Serramonte, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",772,627,949
+"1277","300 Hayes St, San Francisco, CA","1446","700 Larch Avenue, Paradise Valley, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",806,722,898
+"1277","300 Hayes St, San Francisco, CA","1448","300 Baden Avenue, Downtown, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",768,681,865
+"1277","300 Hayes St, San Francisco, CA","1449","500 Forbes Boulevard, The East Side, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",697,542,895
+"1277","300 Hayes St, San Francisco, CA","1450","0 Brookhaven Court, Fairmont, Pacifica","3/22/2020 - 3/29/2020, Every day, Daily Average",838,737,951
+"1277","300 Hayes St, San Francisco, CA","1454","300 East 28th Avenue, South San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1297,1128,1491
+"1277","300 Hayes St, San Francisco, CA","1455","1800 Helene Court, East San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1176,1009,1370
+"1277","300 Hayes St, San Francisco, CA","1457","1500 Donner Avenue, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",946,861,1038
+"1277","300 Hayes St, San Francisco, CA","1460","400 Williams Place, Central San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1479,1184,1847
+"1277","300 Hayes St, San Francisco, CA","1461","200 North Fremont Street, Central San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1129,1012,1258
+"1277","300 Hayes St, San Francisco, CA","1464","200 Cupertino Way, South San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1334,1181,1506
+"1277","300 Hayes St, San Francisco, CA","1472","200 Oakhurst Place, Suburban Park - Lorelei Manor - Flood Park Triangle, Menlo Park","3/22/2020 - 3/29/2020, Every day, Daily Average",1708,1593,1830
+"1277","300 Hayes St, San Francisco, CA","1498","1100 Park Avenue, Emeryville","3/22/2020 - 3/29/2020, Every day, Daily Average",763,641,907
+"1277","300 Hayes St, San Francisco, CA","1504","5800 Christie Avenue, Emeryville","3/22/2020 - 3/29/2020, Every day, Daily Average",752,635,890
+"1277","300 Hayes St, San Francisco, CA","1512","2000 Essex Street, South Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",998,872,1141
+"1277","300 Hayes St, San Francisco, CA","1513","Dwight D. Eisenhower Highway, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",840,704,1001
+"1277","300 Hayes St, San Francisco, CA","1518","1300 67th Street, Southwest Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",924,830,1028
+"1277","300 Hayes St, San Francisco, CA","1519","2600 99th Avenue, Toler Heights, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1264,1170,1365
+"1277","300 Hayes St, San Francisco, CA","1528","6400 Gwin Road, Merriewood, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",971,824,1143
+"1277","300 Hayes St, San Francisco, CA","1534","600 East 8th Street, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",984,806,1199
+"1277","300 Hayes St, San Francisco, CA","1536","2900 Sheffield Avenue, Reservoir Hills, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",980,850,1128
+"1277","300 Hayes St, San Francisco, CA","1537","3200 Suter Street, Upper Peralta Creek, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1030,892,1189
+"1277","300 Hayes St, San Francisco, CA","1545","1300 Willow Avenue, Hercules","3/22/2020 - 3/29/2020, Every day, Daily Average",1576,1335,1859
+"1277","300 Hayes St, San Francisco, CA","1546","5400 Sobrante Avenue, El Sobrante","3/22/2020 - 3/29/2020, Every day, Daily Average",1349,749,2428
+"1277","300 Hayes St, San Francisco, CA","1547","2600 Brian Road, San Pablo","3/22/2020 - 3/29/2020, Every day, Daily Average",1361,1173,1578
+"1277","300 Hayes St, San Francisco, CA","1559","500 Embarcadero West, Downtown Oakland, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",894,719,1111
+"1277","300 Hayes St, San Francisco, CA","1570","0 Tehan Canyon Road, Pleasanton","3/22/2020 - 3/29/2020, Every day, Daily Average",1941,1797,2095
+"1277","300 Hayes St, San Francisco, CA","1577","800 West Tower Avenue, Alameda","3/22/2020 - 3/29/2020, Every day, Daily Average",1108,1026,1195
+"1277","300 Hayes St, San Francisco, CA","1608","1100 Studebaker Road, Saranap, Walnut Creek","3/22/2020 - 3/29/2020, Every day, Daily Average",1446,1346,1552
+"1277","300 Hayes St, San Francisco, CA","1629","500 Peru Avenue, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",551,451,673
+"1277","300 Hayes St, San Francisco, CA","1630","800 Bacon Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",491,412,585
+"1277","300 Hayes St, San Francisco, CA","1639","0 Curtis Street, Crocker-Amazon, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",753,653,867
+"1277","300 Hayes St, San Francisco, CA","1646","100 Murray Street, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",406,325,506
+"1277","300 Hayes St, San Francisco, CA","1647","500 Brunswick Street, Crocker-Amazon, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",753,639,886
+"1277","300 Hayes St, San Francisco, CA","1648","Historic Trail, Inner Sunset, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",481,337,685
+"1277","300 Hayes St, San Francisco, CA","1649","1300 10th Avenue, Inner Sunset, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",428,355,514
+"1277","300 Hayes St, San Francisco, CA","1650","1900 16th Avenue, Inner Sunset, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",689,587,808
+"1277","300 Hayes St, San Francisco, CA","1651","600 39th Street, North & East, Richmond","3/22/2020 - 3/29/2020, Every day, Daily Average",1102,930,1304
+"1277","300 Hayes St, San Francisco, CA","1655","100 South 35th Street, Pullman, Richmond","3/22/2020 - 3/29/2020, Every day, Daily Average",1049,830,1325
+"1277","300 Hayes St, San Francisco, CA","1674","200 Hyde Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",250,160,389
+"1277","300 Hayes St, San Francisco, CA","1677","200 Funston Road, Marina District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",401,298,538
+"1277","300 Hayes St, San Francisco, CA","1682","700 Haight Street, Lower Haight, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",244,152,390
+"1277","300 Hayes St, San Francisco, CA","1686","0 The Embarcadero, North Beach, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",600,484,743
+"1277","300 Hayes St, San Francisco, CA","1687","1400 Powell Street, Russian Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",411,318,529
+"1277","300 Hayes St, San Francisco, CA","1688","1100 Taylor Street, Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",385,303,488
+"1277","300 Hayes St, San Francisco, CA","1689","200 Sutter Street, Financial District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",434,304,618
+"1277","300 Hayes St, San Francisco, CA","1690","900 Pine Street, Lower Nob Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",351,245,501
+"1277","300 Hayes St, San Francisco, CA","1691","200 O'Farrell Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",340,236,488
+"1277","300 Hayes St, San Francisco, CA","1692","800 Mission Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",173,99,301
+"1277","300 Hayes St, San Francisco, CA","1694","700 Folsom Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",397,307,511
+"1277","300 Hayes St, San Francisco, CA","1695","5th Street, Treasure Island, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",459,359,586
+"1277","300 Hayes St, San Francisco, CA","1696","4700 18th Street, Eureka Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",506,397,643
+"1277","300 Hayes St, San Francisco, CA","1697","400 Burnett Avenue, Twin Peaks, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",581,475,709
+"1277","300 Hayes St, San Francisco, CA","1698","3500 20th Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",295,223,389
+"1277","300 Hayes St, San Francisco, CA","1699","900 Sanchez Street, Dolores Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",528,419,664
+"1277","300 Hayes St, San Francisco, CA","1700","3900 25th Street, Noe Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",612,480,779
+"1277","300 Hayes St, San Francisco, CA","1701","600 28th Street, Noe Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",673,597,758
+"1277","300 Hayes St, San Francisco, CA","1702","100 Randall Street, Glen Park, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",682,549,847
+"1277","300 Hayes St, San Francisco, CA","1703","2600 21st Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",256,187,350
+"1277","300 Hayes St, San Francisco, CA","1704","2900 24th Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",378,279,511
+"1277","300 Hayes St, San Francisco, CA","1705","0 Conkling Street, Silver Terrace, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",529,390,717
+"1277","300 Hayes St, San Francisco, CA","1706","700 Bernal Heights Boulevard, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",474,338,664
+"1277","300 Hayes St, San Francisco, CA","1707","100 Appleton Avenue, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",575,468,705
+"1277","300 Hayes St, San Francisco, CA","1710","100 Morningside Drive, Lakeshore, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1275,1001,1622
+"1277","300 Hayes St, San Francisco, CA","1718","300 Arballo Drive, Lakeshore, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",912,725,1145
+"1277","300 Hayes St, San Francisco, CA","1720","2200 47th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1018,883,1173
+"1277","300 Hayes St, San Francisco, CA","1721","Bayfront Expressway, Menlo Park","3/22/2020 - 3/29/2020, Every day, Daily Average",1693,1525,1878
+"1277","300 Hayes St, San Francisco, CA","1722","200 9th Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",587,514,670
+"1277","300 Hayes St, San Francisco, CA","1724","2200 Euclid Avenue, East Palo Alto","3/22/2020 - 3/29/2020, Every day, Daily Average",1775,1603,1964
+"1277","300 Hayes St, San Francisco, CA","1728","800 Easton Avenue, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",1020,811,1281
+"1277","300 Hayes St, San Francisco, CA","1729","1500 Adrian Road, Ingold - Milldale, Burlingame","3/22/2020 - 3/29/2020, Every day, Daily Average",986,757,1282
+"1277","300 Hayes St, San Francisco, CA","1730","0 Park Lane, Brisbane","3/22/2020 - 3/29/2020, Every day, Daily Average",553,431,708
+"1277","300 Hayes St, San Francisco, CA","1731","0 Orange Court, Hillside, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",905,765,1069
+"1277","300 Hayes St, San Francisco, CA","1732","0 Longview Drive, Westlake, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",835,691,1007
+"1277","300 Hayes St, San Francisco, CA","1739","0 Reiner Street, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",745,560,990
+"1277","300 Hayes St, San Francisco, CA","1740","800 Campus Drive, Serramonte, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",802,696,923
+"1277","300 Hayes St, San Francisco, CA","1741","200 Morton Drive, Serramonte, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",910,804,1028
+"1277","300 Hayes St, San Francisco, CA","1743","600 San Bruno Avenue East, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",821,691,974
+"1277","300 Hayes St, San Francisco, CA","1744","1200 Helen Drive, Millbrae","3/22/2020 - 3/29/2020, Every day, Daily Average",986,918,1058
+"1277","300 Hayes St, San Francisco, CA","1745","Ed Taylor Trail, Burlingame Hills, Burlingame","3/22/2020 - 3/29/2020, Every day, Daily Average",1120,932,1345
+"1277","300 Hayes St, San Francisco, CA","1746","600 North Delaware Street, Central San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1159,942,1424
+"1277","300 Hayes St, San Francisco, CA","1747","1700 Coyote Point Drive, Shoreview, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1115,943,1317
+"1277","300 Hayes St, San Francisco, CA","1755","3000 Los Prados Street, East San Mateo, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1281,1116,1470
+"1277","300 Hayes St, San Francisco, CA","1764","300 26th Avenue, Central Richmond, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",750,655,857
+"1277","300 Hayes St, San Francisco, CA","1768","800 Balboa Street, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",469,367,598
+"1277","300 Hayes St, San Francisco, CA","1770","1800 32nd Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",805,691,936
+"1277","300 Hayes St, San Francisco, CA","1771","0 Lopez Avenue, West of Twin Peaks, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",765,594,984
+"1277","300 Hayes St, San Francisco, CA","1772","0 Rockaway Avenue, West of Twin Peaks, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",743,665,829
+"1277","300 Hayes St, San Francisco, CA","1773","0 Majestic Avenue, Ingleside, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",522,438,620
+"1277","300 Hayes St, San Francisco, CA","1774","200 Byxbee Street, Oceanview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",846,737,970
+"1277","300 Hayes St, San Francisco, CA","1775","100 Farallones Street, Oceanview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",570,442,733
+"1277","300 Hayes St, San Francisco, CA","1776","1800 25th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",744,602,918
+"1277","300 Hayes St, San Francisco, CA","1777","7100 Geary Boulevard, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",686,592,794
+"1277","300 Hayes St, San Francisco, CA","1778","7700 Geary Boulevard, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",799,720,885
+"1277","300 Hayes St, San Francisco, CA","1779","500 John Muir Drive, Lakeshore, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",849,661,1088
+"1277","300 Hayes St, San Francisco, CA","1780","1600 McKinnon Avenue, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",567,449,714
+"1277","300 Hayes St, San Francisco, CA","1781","1100 Carolina Street, Potrero Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",294,210,410
+"1277","300 Hayes St, San Francisco, CA","1783","1500 Mansell Street, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",589,486,712
+"1277","300 Hayes St, San Francisco, CA","1831","1100 East Arques Avenue, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2383,2170,2616
+"1277","300 Hayes St, San Francisco, CA","1833","500 Logue Avenue, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",2099,1933,2278
+"1277","300 Hayes St, San Francisco, CA","1851","100 Primrose Way, Duveneck - St. Francis, Palo Alto","3/22/2020 - 3/29/2020, Every day, Daily Average",1876,1750,2010
+"1277","300 Hayes St, San Francisco, CA","1944","700 Girard Street, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",431,320,578
+"1277","300 Hayes St, San Francisco, CA","1951","400 Delta Street, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",601,511,705
+"1277","300 Hayes St, San Francisco, CA","2022","200 Clearview Drive, Vallejo","3/22/2020 - 3/29/2020, Every day, Daily Average",1558,633,3830
+"1277","300 Hayes St, San Francisco, CA","2023","0 Midway Street, Vallejo","3/22/2020 - 3/29/2020, Every day, Daily Average",1688,1013,2812
+"1277","300 Hayes St, San Francisco, CA","2121","2900 Kerner Boulevard, San Rafael","3/22/2020 - 3/29/2020, Every day, Daily Average",1308,1185,1443
+"1277","300 Hayes St, San Francisco, CA","2127","0 Hamilton Drive, Mill Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1117,910,1370
+"1277","300 Hayes St, San Francisco, CA","2132","300 Vista Grande, Greenbrae, Kentfield","3/22/2020 - 3/29/2020, Every day, Daily Average",1267,1154,1389
+"1277","300 Hayes St, San Francisco, CA","2133","600 Manzanita Avenue, Corte Madera","3/22/2020 - 3/29/2020, Every day, Daily Average",1257,1028,1535
+"1277","300 Hayes St, San Francisco, CA","2136","300 Carrera Drive, Mill Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1027,813,1297
+"1277","300 Hayes St, San Francisco, CA","2137","0 West Harbor Drive, Sausalito","3/22/2020 - 3/29/2020, Every day, Daily Average",987,819,1189
+"1277","300 Hayes St, San Francisco, CA","2155","3100 North Shoreline Boulevard, Mountain View","3/22/2020 - 3/29/2020, Every day, Daily Average",1932,1731,2155
+"1277","300 Hayes St, San Francisco, CA","2169","1000 Liege Terrace, Morse Park, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2224,2008,2463
+"1277","300 Hayes St, San Francisco, CA","2170","2500 Junction Avenue, North San Jose, San Jose","3/22/2020 - 3/29/2020, Every day, Daily Average",2755,2058,3687
+"1277","300 Hayes St, San Francisco, CA","2171","1400 Airport Boulevard, North San Jose, San Jose","3/22/2020 - 3/29/2020, Every day, Daily Average",2757,2086,3642
+"1277","300 Hayes St, San Francisco, CA","2187","4200 Middle Harbor Road, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",750,646,870
+"1277","300 Hayes St, San Francisco, CA","2213","800 40th Street, Longfellow, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",778,651,928
+"1277","300 Hayes St, San Francisco, CA","2215","1500 East 31st Street, Tuxedo, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",958,823,1114
+"1277","300 Hayes St, San Francisco, CA","2218","5300 Underwood Avenue, Mills College, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1083,989,1185
+"1277","300 Hayes St, San Francisco, CA","2231","100 Garden Lane, Millbrae","3/22/2020 - 3/29/2020, Every day, Daily Average",933,786,1106
+"1277","300 Hayes St, San Francisco, CA","2244","0 Crystal Springs Terrace, Hillsborough Park, Hillsborough","3/22/2020 - 3/29/2020, Every day, Daily Average",1258,1149,1376
+"1277","300 Hayes St, San Francisco, CA","2247","J. Arthur Younger Freeway, Foster City","3/22/2020 - 3/29/2020, Every day, Daily Average",1374,1220,1546
+"1277","300 Hayes St, San Francisco, CA","2281","0 Corte Palos Verdes, Tiburon, Belvedere Tiburon","3/22/2020 - 3/29/2020, Every day, Daily Average",1149,832,1584
+"1277","300 Hayes St, San Francisco, CA","2308","300 Fremont Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",372,261,528
+"1277","300 Hayes St, San Francisco, CA","2311","2700 Larkin Street, Russian Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",376,287,491
+"1277","300 Hayes St, San Francisco, CA","2312","2100 Webster Street, Pacific Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",309,239,398
+"1277","300 Hayes St, San Francisco, CA","2313","1300 Webster Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",266,159,443
+"1277","300 Hayes St, San Francisco, CA","2314","300 Waller Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",203,132,311
+"1277","300 Hayes St, San Francisco, CA","2315","0 Duboce Avenue, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",132,82,211
+"1277","300 Hayes St, San Francisco, CA","2316","2800 Folsom Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",426,318,569
+"1277","300 Hayes St, San Francisco, CA","2317","100 Coleridge Street, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",584,442,771
+"1277","300 Hayes St, San Francisco, CA","2318","100 Santa Rosa Avenue, Outer Mission, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",463,373,573
+"1277","300 Hayes St, San Francisco, CA","2319","300 Lisbon Street, Excelsior, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",628,517,761
+"1277","300 Hayes St, San Francisco, CA","2320","300 Argonaut Avenue, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",677,550,833
+"1277","300 Hayes St, San Francisco, CA","2321","400 Irving Street, Inner Sunset, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",409,320,522
+"1277","300 Hayes St, San Francisco, CA","2322","100 Eastwood Drive, West of Twin Peaks, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",636,518,779
+"1277","300 Hayes St, San Francisco, CA","2323","2600 40th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1054,892,1244
+"1277","300 Hayes St, San Francisco, CA","2330","0 Peoria Street, Crocker, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",774,574,1041
+"1277","300 Hayes St, San Francisco, CA","2332","2700 Adeline Street, South Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1114,993,1249
+"1277","300 Hayes St, San Francisco, CA","2340","0 Mason Street, Tenderloin, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",373,245,566
+"1277","300 Hayes St, San Francisco, CA","2343","West Point Road, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",677,557,822
+"1277","300 Hayes St, San Francisco, CA","2344","600 3rd Avenue, Richmond District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",423,346,516
+"1277","300 Hayes St, San Francisco, CA","2347","1500 3rd Avenue, East Lake, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1089,982,1206
+"1277","300 Hayes St, San Francisco, CA","2348","7700 Sunkist Drive, Eastmont Hills, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1150,1047,1262
+"1277","300 Hayes St, San Francisco, CA","2349","1600 Ward Street, South Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1056,899,1239
+"1277","300 Hayes St, San Francisco, CA","2367","0 Los Norrabos, El Toyonal, Orinda","3/22/2020 - 3/29/2020, Every day, Daily Average",1082,931,1257
+"1277","300 Hayes St, San Francisco, CA","2409","4300 Hacienda Drive, Pleasanton","3/22/2020 - 3/29/2020, Every day, Daily Average",2191,2030,2364
+"1277","300 Hayes St, San Francisco, CA","2423","21800 Tanglewood Drive, Castro Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1604,1479,1738
+"1277","300 Hayes St, San Francisco, CA","2437","3200 38th Avenue, Allendale, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1036,937,1145
+"1277","300 Hayes St, San Francisco, CA","2441","100 Octavia Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",61,24,151
+"1277","300 Hayes St, San Francisco, CA","2442","2800 Mission Street, Mission District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",420,310,567
+"1277","300 Hayes St, San Francisco, CA","2443","500 22nd Street, Potrero Hill, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",456,346,599
+"1277","300 Hayes St, San Francisco, CA","2451","700 Westlake Center, Westlake, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",661,512,853
+"1277","300 Hayes St, San Francisco, CA","2452","400 Verducci Drive, Serramonte, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",909,676,1221
+"1277","300 Hayes St, San Francisco, CA","2453","0 Orange Court, Country Club Manor, Hillsborough","3/22/2020 - 3/29/2020, Every day, Daily Average",1189,1035,1365
+"1277","300 Hayes St, San Francisco, CA","2460","1300 Montgomery Street, North Beach, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",540,441,659
+"1277","300 Hayes St, San Francisco, CA","2463","200 Moncada Way, Oceanview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",845,639,1115
+"1277","300 Hayes St, San Francisco, CA","2464","1700 47th Avenue, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",820,750,895
+"1277","300 Hayes St, San Francisco, CA","2465","Diamond Cove Terrace, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",472,354,628
+"1277","300 Hayes St, San Francisco, CA","2466","400 Amador Street, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",434,320,587
+"1277","300 Hayes St, San Francisco, CA","2485","0 Jolie Lane, Walnut Creek","3/22/2020 - 3/29/2020, Every day, Daily Average",1531,1428,1641
+"1277","300 Hayes St, San Francisco, CA","2495","100 Shrader Street, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",223,166,298
+"1277","300 Hayes St, San Francisco, CA","2496","100 Diamond Street, The Castro, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",423,327,547
+"1277","300 Hayes St, San Francisco, CA","2497","600 Tompkins Avenue, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",367,293,458
+"1277","300 Hayes St, San Francisco, CA","2498","700 Rolph Street, Crocker-Amazon, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",809,709,922
+"1277","300 Hayes St, San Francisco, CA","2499","400 Faxon Avenue, Ingleside, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",636,517,782
+"1277","300 Hayes St, San Francisco, CA","2502","Old Guadalupe Trail, Daly City","3/22/2020 - 3/29/2020, Every day, Daily Average",904,762,1071
+"1277","300 Hayes St, San Francisco, CA","2503","3700 Callan Boulevard, Westborough, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1036,752,1426
+"1277","300 Hayes St, San Francisco, CA","2505","1000 Commodore Drive, San Bruno","3/22/2020 - 3/29/2020, Every day, Daily Average",904,726,1124
+"1277","300 Hayes St, San Francisco, CA","2513","300 O' Connor Street, The Willows, Menlo Park","3/22/2020 - 3/29/2020, Every day, Daily Average",1816,1643,2006
+"1277","300 Hayes St, San Francisco, CA","2520","3200 Shawn Way, Hayward","3/22/2020 - 3/29/2020, Every day, Daily Average",1733,1583,1896
+"1277","300 Hayes St, San Francisco, CA","2525","1200 Elko Drive, Sunnyvale","3/22/2020 - 3/29/2020, Every day, Daily Average",2238,2052,2440
+"1277","300 Hayes St, San Francisco, CA","2530","3200 Blandon Road, Oak Knoll Golf Links, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1209,1112,1313
+"1277","300 Hayes St, San Francisco, CA","2540","400 Duperu Drive, Crockett","3/22/2020 - 3/29/2020, Every day, Daily Average",1523,749,3094
+"1277","300 Hayes St, San Francisco, CA","2554","0 Oliver Lane, Mill Valley","3/22/2020 - 3/29/2020, Every day, Daily Average",1163,946,1428
+"1277","300 Hayes St, San Francisco, CA","2582","1200 Manzanita Drive, Millbrae","3/22/2020 - 3/29/2020, Every day, Daily Average",1032,962,1106
+"1277","300 Hayes St, San Francisco, CA","2593","5500 Stoneridge Mall Road, Pleasanton","3/22/2020 - 3/29/2020, Every day, Daily Average",2113,1944,2295
+"1277","300 Hayes St, San Francisco, CA","2597","3000 Telegraph Avenue, Pill Hill, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",817,678,983
+"1277","300 Hayes St, San Francisco, CA","2601","800 Cole Street, Ashbury Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",421,324,546
+"1277","300 Hayes St, San Francisco, CA","2603","11200 Kerrigan Drive, Chabot Park, Oakland","3/22/2020 - 3/29/2020, Every day, Daily Average",1294,1197,1398
+"1277","300 Hayes St, San Francisco, CA","2605","0 Cable Roadway, Sausalito","3/22/2020 - 3/29/2020, Every day, Daily Average",876,623,1231
+"1277","300 Hayes St, San Francisco, CA","2606","2100 Beach Street, Marina District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",514,421,627
+"1277","300 Hayes St, San Francisco, CA","2611","2000 Evergreen Avenue, Assumption Parish, San Leandro","3/22/2020 - 3/29/2020, Every day, Daily Average",1414,1309,1527
+"1277","300 Hayes St, San Francisco, CA","2613","1700 Eisenhower Street, Shoreview, San Mateo","3/22/2020 - 3/29/2020, Every day, Daily Average",1224,1062,1410
+"1277","300 Hayes St, San Francisco, CA","2620","2200 McGee Avenue, Central Berkeley, Berkeley","3/22/2020 - 3/29/2020, Every day, Daily Average",1120,976,1284
+"1277","300 Hayes St, San Francisco, CA","2622","300 Langton Street, South of Market, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",265,175,399
+"1277","300 Hayes St, San Francisco, CA","2624","1300 16th Avenue, Inner Sunset, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",462,385,553
+"1277","300 Hayes St, San Francisco, CA","2625","400 Alpha Street, Visitacion Valley, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",599,423,847
+"1277","300 Hayes St, San Francisco, CA","2629","Cochrane Street, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",712,621,815
+"1277","300 Hayes St, San Francisco, CA","2634","Dwight D. Eisenhower Highway, Albany","3/22/2020 - 3/29/2020, Every day, Daily Average",903,746,1091
+"1277","300 Hayes St, San Francisco, CA","2643","1300 Egbert Avenue, Bayview, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",648,520,807
+"1277","300 Hayes St, San Francisco, CA","2660","0 Burgess Court, Sausalito","3/22/2020 - 3/29/2020, Every day, Daily Average",975,741,1281
+"1277","300 Hayes St, San Francisco, CA","2673","100 Rutledge Street, Bernal Heights, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",329,251,431
+"1277","300 Hayes St, San Francisco, CA","2694","1900 Buchanan Street, Western Addition, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",241,170,340
+"1277","300 Hayes St, San Francisco, CA","2695","2200 Rivera Street, Sunset District, San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",854,733,994
+"1277","300 Hayes St, San Francisco, CA","2700","300 Ponderosa Road, Avalon, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1061,808,1392
+"1277","300 Hayes St, San Francisco, CA","2708","200 Westview Drive, Sunshine Gardens, South San Francisco","3/22/2020 - 3/29/2020, Every day, Daily Average",1012,923,1109
